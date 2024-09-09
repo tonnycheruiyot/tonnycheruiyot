@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tonny Kirui, student
+- 👋 Hi, I’m Tonny Kirui, a student in University of Nairobi
 - 👀 I’m interested in Artificial Intelligence and Web Development
 - 🌱 I’m currently learning Django and Flutter
 - 💞️ I’m looking to collaborate on web applications
